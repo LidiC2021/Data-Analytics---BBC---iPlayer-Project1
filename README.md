@@ -241,7 +241,7 @@ These steps build directly on the cleaned data and demonstrate how preprocessing
 **Value:**  
  Demonstrates time-based aggregation and categorical interaction analysis.
 
-### **🔹 Session-Like Behaviour Analysis *(Optional Extension)***
+### 🔹 Session-Like Behaviour Analysis 
 
 **Objective:**  
  Explore deeper engagement patterns if user-level data is introduced.
